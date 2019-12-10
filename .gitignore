@@ -1,11 +1,6 @@
 # Created by .ignore support plugin (hsz.mobi)
 
-
-.idea/*.xml
-.idea/.name
-.idea/copyright
-.idea/libraries
-.idea/shelf
+.idea/*
 target
 out
 build/*
